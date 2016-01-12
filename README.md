@@ -1,2 +1,2 @@
-# ILACurriculumVitae
+# CV
 My Curriculum Vitae
