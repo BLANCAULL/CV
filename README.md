@@ -50,4 +50,13 @@
 
 ## Formación académica
 
+### Ingeniería Informática, 2015.
+
+* **Universidad de Jaén**.
+* Especialidad en Informática Gráfica y Procesamiento de Imágenes (IGI).
+
+### Ingeniería Técnica en Informática de Gestión, 2010.
+
+* **Universidad de Jaén**.
+
 ## Formación complementaria
