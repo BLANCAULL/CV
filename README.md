@@ -2,7 +2,15 @@
 
 ![José María Ila Contreras](https://avatars0.githubusercontent.com/u/3687452?v=2&s=250 "joseila85 [at] gmail [dot] com")
 
+**Ingeniero Informático** especializado en el desarrollo de aplicaciones móviles para iOS.
 
+* **Lenguajes de programación**: Objective-c, Swift, Java, C, C++, PHP.
+* **Movilidad**: iOS, React Native.
+* **Java**: Java SE, Java EE (JSP, Servlets, Struts).
+* **Web**: HTML+CSS, Javascript, jQuery, XML, JSON.
+* **Bases de datos**: MySQL, Realm.
+* **Control de versiones**: Git, SVN.
+* **Otras herramientas**: Xcode, Eclipse, Netbeans, MySQL, Bitbucket, JIRA, Unity3D, Cocos2D, Cocos2D-X.
 
 ## Experiencia laboral
 
@@ -50,12 +58,18 @@
 
 ## Formación académica
 
-### Ingeniería Informática, 2015.
+### **Ingeniería Informática**, 2015.
 
 * **Universidad de Jaén**.
-* Especialidad en Informática Gráfica y Procesamiento de Imágenes (IGI).
+* Especialidad en Informática Gráfica y Procesamiento de Imágenes (*IGI*).
+* **Proyecto Fin de Carrera:**
+	* **Modelado de ciudades para dispositivos iOS**.
+	* Enero 2015 - Junio 2015.
+	* Desarrollo de un sistema con capacidades asociadas a un *GIS*, que visualiza e interactua con elementos urbanos de la ciudad de Jaén así como localiza empresas y obtiene información sobre ellas. El sistema consiste en una aplicación web que gestiona la información empresarial y una aplicación móvil para dispositivos iOS.
 
-### Ingeniería Técnica en Informática de Gestión, 2010.
+![PFC2015](./images/projects/2015-pfc.gif "Modelado de ciudades para dispositivos iOS")
+
+### **Ingeniería Técnica en Informática de Gestión**, 2010.
 
 * **Universidad de Jaén**.
 
