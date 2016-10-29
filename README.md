@@ -30,6 +30,8 @@
 	* Mantenimiento e implementación de módulos privados para [Cocoapods](https://cocoapods.org).
 	* Colaboración en todo el proceso de desarrollo de [RTVE news](https://itunes.apple.com/es/app/rtve-news/id1038065939?mt=8).
 
+		![PLANETMEDIA20152016](./images/projects/2015-2016-planetmedia.png "Planet Media / RTVE Portfolio")
+
 ### **Enala**, Madrid.
 
 * **Programador Junior / Programador iOS.**
