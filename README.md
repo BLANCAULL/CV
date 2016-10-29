@@ -10,7 +10,7 @@
 * **Web**: HTML+CSS, Javascript, jQuery, XML, JSON.
 * **Bases de datos**: MySQL, Realm.
 * **Control de versiones**: Git, SVN.
-* **Otras herramientas**: Xcode, Eclipse, Netbeans, MySQL, Bitbucket, JIRA, Unity3D, Cocos2D, Cocos2D-X.
+* **Otras herramientas**: Xcode, Eclipse, Netbeans, Bitbucket, JIRA, Unity3D, Cocos2D, Cocos2D-X.
 
 ## Experiencia laboral
 
