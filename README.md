@@ -18,8 +18,14 @@
 
 * **Analista Programador / Programador Senior iOS.**
 * *Marzo 2016 - Actualidad.*
-* Desde marzo de 2016 desempeño mi labor dentro del equipo de movilidad.
-
+* Desde marzo de 2016 desempeño mi labor dentro del [departamento de movilidad](http://vectoritcgroup.com/es/vector-mobile).
+* **Proyectos destacados:**
+	* Mantenimiento, soporte y desarrollo de aplicación turística de la ciudad de Barcelona: **WeGo|BCN**.
+	* Desarrollo de aplicación para **Best Day**: [BDTravel]().
+	* Desarrollo de aplicaciones corporativas de **Vector Mobile**: [Radar tecnológico](https://itunes.apple.com/ie/app/radar-tecnologico/id1119531453?mt=8).
+		
+		![VECTOR2016](./images/projects/2016-vector.png "Vector Mobile Portfolio")
+		
 ### **Planet Media Studios**, Madrid.
 
 * **Analista Programador / Programador iOS.**
