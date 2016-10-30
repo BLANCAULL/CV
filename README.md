@@ -1,4 +1,4 @@
-# ![José María Ila Contreras](https://avatars0.githubusercontent.com/u/3687452?s=75 "joseila85 [at] gmail [dot] com") José María Ila [![Github License](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://github.com/joserock85/CV/blob/master/LICENSE.md)
+# ![José María Ila Contreras](https://avatars0.githubusercontent.com/u/3687452?s=75 "joseila85 [at] gmail [dot] com") José María Ila Contreras [![Github License](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://github.com/joserock85/CV/blob/master/LICENSE.md) [![PDF download](https://img.shields.io/badge/download-PDF-red.svg)](./docs/CV.pdf)
 
 **Ingeniero Informático** especializado en el desarrollo de aplicaciones móviles para iOS.
 
