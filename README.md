@@ -77,7 +77,7 @@
 	* Enero 2015 - Junio 2015.
 	* Desarrollo de un sistema con capacidades asociadas a un *GIS*, que visualiza e interactua con elementos urbanos de la ciudad de Jaén así como localiza empresas y obtiene información sobre ellas. El sistema consiste en una aplicación web que gestiona la información empresarial y una aplicación móvil para dispositivos iOS.
 
-![PFC2015](./images/projects/2015-pfc.gif "Modelado de ciudades para dispositivos iOS")
+		![PFC2015](./images/projects/2015-pfc.gif "Modelado de ciudades para dispositivos iOS")
 
 ### **Ingeniería Técnica en Informática de Gestión**, 2010.
 
