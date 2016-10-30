@@ -1,6 +1,4 @@
-# José María Ila Contreras 
-
-![José María Ila Contreras](https://avatars0.githubusercontent.com/u/3687452?v=2&s=250 "joseila85 [at] gmail [dot] com")
+# ![José María Ila Contreras](https://avatars0.githubusercontent.com/u/3687452?s=75 "joseila85 [at] gmail [dot] com") José María Ila 
 
 **Ingeniero Informático** especializado en el desarrollo de aplicaciones móviles para iOS.
 
@@ -84,3 +82,23 @@
 * **Universidad de Jaén**.
 
 ## Formación complementaria
+
+* **Agilidad y Lean. Gestionando los proyectos y negocios del s. XXI**, 2014.
+	* Universidad Rey Juan Carlos, Madrid.
+	* 50 horas.
+
+* **XXII Congreso Español de Informática Gráfica (CEIG 2012)**, 2012.
+	* Universidad de Jaén, Jaén.
+	* 30 horas.
+
+* **Redes sociales: Una oportunidad para el emprendimiento y la empleabilidad**, 2012.
+	* Universidad de Jaén, La Carolina.
+	* 30 horas.
+
+* **La protección de los datos de carácter personal**, 2009.
+	* Universidad de Murcia, Murcia.
+	* 202 horas.
+
+* **Trabajando en TIC**, 2008.
+	* Universidad de Jaén, La Carolina.
+	* 30 horas.   	  
